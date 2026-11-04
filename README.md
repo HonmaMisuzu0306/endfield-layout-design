@@ -26,7 +26,7 @@
 $skill-installer 从 https://github.com/HonmaMisuzu0306/endfield-layout-design/tree/v1.0.0/skills/endfield-layout-design 安装这个技能。
 ```
 
-也可下载 [v1.0.0 Release](https://github.com/HonmaMisuzu0306/endfield-layout-design/releases/tag/v1.0.0) 的 `endfield-layout-design-v1.0.0.zip`，解压后将完整的 `endfield-layout-design` 文件夹放入项目的 `.agents/skills/`，使入口位于 `.agents/skills/endfield-layout-design/SKILL.md`。全局个人技能可放入 `~/.agents/skills/`。请保留整个文件夹中的相对路径；目标已有同名技能时先备份。安装与发现方式参考 [OpenAI 官方技能文档](https://learn.chatgpt.com/docs/build-skills)。
+也可在 [v1.0.0 Release](https://github.com/HonmaMisuzu0306/endfield-layout-design/releases/tag/v1.0.0) 下载 GitHub 自动生成的 **Source code (zip)**，解压后将其中 `skills/endfield-layout-design` 的完整文件夹放入项目的 `.agents/skills/`，使入口位于 `.agents/skills/endfield-layout-design/SKILL.md`。全局个人技能可放入 `~/.agents/skills/`。请保留整个文件夹中的相对路径；目标已有同名技能时先备份。安装与发现方式参考 [OpenAI 官方技能文档](https://learn.chatgpt.com/docs/build-skills)。
 
 调用示例：
 
