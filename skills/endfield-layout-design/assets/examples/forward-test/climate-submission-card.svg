@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<rect width="1200" height="900" fill="#f6f8f7"/>
+<rect x="0" y="0" width="1200" height="206" fill="#d8eaf0"/>
+<rect x="0" y="0" width="1200" height="8" fill="#486e7d"/>
+<rect x="64" y="44" width="64" height="5" fill="#172b31"/>
+<text x="64" y="127" font-family="SimSun" font-size="54" fill="#172420" stroke="#172420" stroke-width="1">城市气候采样数据提交说明</text>
+<line x1="64" y1="174" x2="1136" y2="174" stroke="#91b3c1" stroke-width="2"/>
+<rect x="64" y="258" width="154" height="42" fill="#172b31"/>
+<text x="78" y="287" font-family="Microsoft YaHei" font-size="25" fill="#f6f8f7" stroke="#f6f8f7" stroke-width="0">01 / 检查</text>
+<text x="252" y="284" font-family="Microsoft YaHei" font-size="28" fill="#172420" stroke="#172420" stroke-width="0">核对采样时间、地点与设备编号，并确认数据文件可以正常打开。若记</text>
+<text x="252" y="325" font-family="Microsoft YaHei" font-size="28" fill="#172420" stroke="#172420" stroke-width="0">录缺失，请注明原因，不要自行补造观测值。</text>
+<line x1="252" y1="401" x2="1136" y2="401" stroke="#b9cbd0" stroke-width="1"/>
+<rect x="64" y="436" width="154" height="42" fill="#172b31"/>
+<text x="78" y="464" font-family="Microsoft YaHei" font-size="25" fill="#f6f8f7" stroke="#f6f8f7" stroke-width="0">02 / 命名</text>
+<text x="252" y="462" font-family="Microsoft YaHei" font-size="28" fill="#172420" stroke="#172420" stroke-width="0">文件名使用日期、地点与采样类型，保留原始文件；修订后的副本追加</text>
+<text x="252" y="503" font-family="Microsoft YaHei" font-size="28" fill="#172420" stroke="#172420" stroke-width="0">版本号，避免覆盖原始数据。</text>
+<line x1="252" y1="579" x2="1136" y2="579" stroke="#b9cbd0" stroke-width="1"/>
+<rect x="64" y="614" width="154" height="42" fill="#172b31"/>
+<text x="78" y="643" font-family="Microsoft YaHei" font-size="25" fill="#f6f8f7" stroke="#f6f8f7" stroke-width="0">03 / 归档</text>
+<text x="252" y="640" font-family="Microsoft YaHei" font-size="28" fill="#172420" stroke="#172420" stroke-width="0">提交数据文件、设备状态和现场备注。完成归档后保留提交记录，后续</text>
+<text x="252" y="681" font-family="Microsoft YaHei" font-size="28" fill="#172420" stroke="#172420" stroke-width="0">更正应注明修改内容与原因。</text>
+<line x1="252" y1="757" x2="1136" y2="757" stroke="#b9cbd0" stroke-width="1"/>
+<line x1="64" y1="821" x2="1136" y2="821" stroke="#172b31" stroke-width="2"/>
+<text x="64" y="866" font-family="Microsoft YaHei" font-size="22" fill="#49606a" stroke="#49606a" stroke-width="0">原创示例 · 不含真实地点或个人数据。</text>
+</svg>

@@ -1,0 +1,4 @@
+interface:
+  display_name: "终末地构成排版设计"
+  short_description: "依据官方图例的构成规律制作原创海报、信息卡片及页面设计"
+  default_prompt: "使用 $endfield-layout-design，根据我的文案、素材、尺寸和用途制作原创设计，并渲染检查可读性。"

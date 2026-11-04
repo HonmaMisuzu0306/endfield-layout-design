@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<rect width="1200" height="900" fill="#f5f7f2"/>
+<rect x="0" y="0" width="1200" height="8" fill="#9bd9c8"/>
+<rect x="0" y="8" width="12" height="892" fill="#172420"/>
+<text x="72" y="58" font-family="Arial" font-size="22" fill="#505e58" stroke="#505e58" stroke-width="0">FIELD GUIDE / EQUIPMENT</text>
+<text x="970" y="58" font-family="Arial" font-size="22" fill="#505e58" stroke="#505e58" stroke-width="0">DOC / 02</text>
+<ellipse cx="1050.0" cy="132.0" rx="40.0" ry="40.0" fill="none" stroke="#badacc" stroke-width="2"/>
+<rect x="1010" y="92" width="40" height="40" fill="#dcece5"/>
+<text x="72" y="139" font-family="SimSun" font-size="55" fill="#172420" stroke="#172420" stroke-width="1">设备借用与归还流程</text>
+<rect x="72" y="242" width="185" height="38" fill="#172420"/>
+<text x="87" y="268" font-family="Microsoft YaHei" font-size="23" fill="#f5f7f2" stroke="#f5f7f2" stroke-width="0">01 / 预约</text>
+<text x="292" y="267" font-family="Microsoft YaHei" font-size="28" fill="#172420" stroke="#172420" stroke-width="0">填写设备类型与借用时段，确认后领取预约编号。</text>
+<line x1="292" y1="324" x2="1128" y2="324" stroke="#b7c8bf" stroke-width="1"/>
+<rect x="72" y="480.0" width="185" height="38" fill="#172420"/>
+<text x="87" y="505.0" font-family="Microsoft YaHei" font-size="23" fill="#f5f7f2" stroke="#f5f7f2" stroke-width="0">02 / 领取</text>
+<text x="292" y="505.0" font-family="Microsoft YaHei" font-size="28" fill="#172420" stroke="#172420" stroke-width="0">出示预约编号，核对设备状态与附件数量。</text>
+<line x1="292" y1="562.0" x2="1128" y2="562.0" stroke="#b7c8bf" stroke-width="1"/>
+<rect x="72" y="718.0" width="185" height="38" fill="#172420"/>
+<text x="87" y="743.0" font-family="Microsoft YaHei" font-size="23" fill="#f5f7f2" stroke="#f5f7f2" stroke-width="0">03 / 归还</text>
+<text x="292" y="743.0" font-family="Microsoft YaHei" font-size="28" fill="#172420" stroke="#172420" stroke-width="0">按约定时间归还设备，工作人员检查后完成记录。</text>
+<line x1="292" y1="800.0" x2="1128" y2="800.0" stroke="#b7c8bf" stroke-width="1"/>
+<line x1="72" y1="823" x2="1128" y2="823" stroke="#172420" stroke-width="1"/>
+<text x="72" y="857" font-family="Microsoft YaHei" font-size="20" fill="#505e58" stroke="#505e58" stroke-width="0">原创示例 · 如需延长借用时间，请在到期前联系现场工作人员。</text>
+</svg>

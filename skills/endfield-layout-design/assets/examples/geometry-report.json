@@ -1,0 +1,740 @@
+{
+  "font_files": {
+    "sans": "C:\\Windows\\Fonts\\msyh.ttc",
+    "serif": "C:\\Windows\\Fonts\\simsun.ttc",
+    "latin": "C:\\Windows\\Fonts\\arial.ttf"
+  },
+  "contrast_ratios": {
+    "body_on_paper": 14.87,
+    "secondary_on_paper": 6.31,
+    "light_on_dark": 14.87,
+    "mint_on_dark": 10.04
+  },
+  "results": {
+    "activity-poster": {
+      "canvas": [
+        1200,
+        1600
+      ],
+      "text_bounds_pass": true,
+      "text_overlap_count": 0,
+      "content_preserved": true,
+      "text_boxes": [
+        {
+          "text": "NORTH BANK / FIELD STATION",
+          "role": "brand",
+          "x": 72,
+          "y": 35,
+          "width": 357.9375,
+          "height": 17,
+          "size": 24
+        },
+        {
+          "text": "北岸观测计划 · 公众开放日",
+          "role": "label",
+          "x": 72,
+          "y": 77,
+          "width": 237.0,
+          "height": 20,
+          "size": 20
+        },
+        {
+          "text": "OPEN / 01",
+          "role": "index",
+          "x": 923,
+          "y": 37,
+          "width": 115.0,
+          "height": 17,
+          "size": 24
+        },
+        {
+          "text": "晨雾观测站",
+          "role": "title",
+          "x": 88,
+          "y": 215,
+          "width": 430.0,
+          "height": 79,
+          "size": 86
+        },
+        {
+          "text": "开放日",
+          "role": "title",
+          "x": 88,
+          "y": 316,
+          "width": 258.0,
+          "height": 79,
+          "size": 86
+        },
+        {
+          "text": "MORNING MIST / OPEN STATION",
+          "role": "subtitle",
+          "x": 88,
+          "y": 476,
+          "width": 359.9375,
+          "height": 17,
+          "size": 23
+        },
+        {
+          "text": "记录一段城市的呼吸。",
+          "role": "body",
+          "x": 88,
+          "y": 539,
+          "width": 280.0,
+          "height": 27,
+          "size": 28
+        },
+        {
+          "text": "一起观察晨雾、河岸与声音。",
+          "role": "body",
+          "x": 88,
+          "y": 581,
+          "width": 364.0,
+          "height": 27,
+          "size": 28
+        },
+        {
+          "text": "开放时间 / DATE & TIME",
+          "role": "label",
+          "x": 72,
+          "y": 1084,
+          "width": 273.96875,
+          "height": 23,
+          "size": 24
+        },
+        {
+          "text": "2026.11.07",
+          "role": "date",
+          "x": 72,
+          "y": 1135,
+          "width": 467.890625,
+          "height": 69,
+          "size": 94
+        },
+        {
+          "text": "13:00 — 18:00",
+          "role": "time",
+          "x": 75,
+          "y": 1248,
+          "width": 236.0,
+          "height": 26,
+          "size": 36
+        },
+        {
+          "text": "地点 / VENUE",
+          "role": "label",
+          "x": 72,
+          "y": 1327,
+          "width": 140.0,
+          "height": 22,
+          "size": 22
+        },
+        {
+          "text": "北岸实验空间 · 一层观测厅",
+          "role": "venue",
+          "x": 72,
+          "y": 1371,
+          "width": 378.0,
+          "height": 31,
+          "size": 32
+        },
+        {
+          "text": "原创示例 · 时间与场地为虚构示范信息。无需预约，现场依次入场。",
+          "role": "note",
+          "x": 72,
+          "y": 1516,
+          "width": 597.0,
+          "height": 21,
+          "size": 20
+        }
+      ],
+      "wrapped_fields": [
+        {
+          "input": "晨雾观测站\n开放日",
+          "rendered_lines": [
+            "晨雾观测站",
+            "开放日"
+          ],
+          "preserved": true
+        },
+        {
+          "input": "MORNING MIST / OPEN STATION",
+          "rendered_lines": [
+            "MORNING MIST / OPEN STATION"
+          ],
+          "preserved": true
+        },
+        {
+          "input": "记录一段城市的呼吸。\n一起观察晨雾、河岸与声音。",
+          "rendered_lines": [
+            "记录一段城市的呼吸。",
+            "一起观察晨雾、河岸与声音。"
+          ],
+          "preserved": true
+        },
+        {
+          "input": "北岸实验空间 · 一层观测厅",
+          "rendered_lines": [
+            "北岸实验空间 · 一层观测厅"
+          ],
+          "preserved": true
+        },
+        {
+          "input": "原创示例 · 时间与场地为虚构示范信息。无需预约，现场依次入场。",
+          "rendered_lines": [
+            "原创示例 · 时间与场地为虚构示范信息。无需预约，现场依次入场。"
+          ],
+          "preserved": true
+        }
+      ],
+      "reference_ids": [
+        "R17",
+        "R25",
+        "R29"
+      ],
+      "composition": "B / original mint observation instrument"
+    },
+    "activity-poster-long": {
+      "canvas": [
+        1200,
+        1600
+      ],
+      "text_bounds_pass": true,
+      "text_overlap_count": 0,
+      "content_preserved": true,
+      "text_boxes": [
+        {
+          "text": "NORTH BANK / FIELD STATION",
+          "role": "brand",
+          "x": 72,
+          "y": 35,
+          "width": 357.9375,
+          "height": 17,
+          "size": 24
+        },
+        {
+          "text": "北岸观测计划 · 公众开放日",
+          "role": "label",
+          "x": 72,
+          "y": 77,
+          "width": 237.0,
+          "height": 20,
+          "size": 20
+        },
+        {
+          "text": "OPEN / 01",
+          "role": "index",
+          "x": 923,
+          "y": 37,
+          "width": 115.0,
+          "height": 17,
+          "size": 24
+        },
+        {
+          "text": "晨雾观测站",
+          "role": "title",
+          "x": 88,
+          "y": 215,
+          "width": 370.0,
+          "height": 68,
+          "size": 74
+        },
+        {
+          "text": "城市气候与",
+          "role": "title",
+          "x": 88,
+          "y": 302,
+          "width": 370.0,
+          "height": 68,
+          "size": 74
+        },
+        {
+          "text": "声景采样开放日",
+          "role": "title",
+          "x": 88,
+          "y": 389,
+          "width": 518.0,
+          "height": 69,
+          "size": 74
+        },
+        {
+          "text": "MORNING MIST / CLIMATE & SOUNDSCAPE",
+          "role": "subtitle",
+          "x": 88,
+          "y": 535,
+          "width": 476.96875,
+          "height": 17,
+          "size": 23
+        },
+        {
+          "text": "从河岸出发，学习记录温度、湿度与环",
+          "role": "body",
+          "x": 88,
+          "y": 598,
+          "width": 476.0,
+          "height": 28,
+          "size": 28
+        },
+        {
+          "text": "境声音；参与现场采样演示，完成属于",
+          "role": "body",
+          "x": 88,
+          "y": 640,
+          "width": 476.0,
+          "height": 29,
+          "size": 28
+        },
+        {
+          "text": "自己的城市观察笔记。",
+          "role": "body",
+          "x": 88,
+          "y": 682,
+          "width": 280.0,
+          "height": 28,
+          "size": 28
+        },
+        {
+          "text": "开放时间 / DATE & TIME",
+          "role": "label",
+          "x": 72,
+          "y": 1084,
+          "width": 273.96875,
+          "height": 23,
+          "size": 24
+        },
+        {
+          "text": "2026.11.07",
+          "role": "date",
+          "x": 72,
+          "y": 1135,
+          "width": 467.890625,
+          "height": 69,
+          "size": 94
+        },
+        {
+          "text": "13:00 — 18:00",
+          "role": "time",
+          "x": 75,
+          "y": 1248,
+          "width": 236.0,
+          "height": 26,
+          "size": 36
+        },
+        {
+          "text": "地点 / VENUE",
+          "role": "label",
+          "x": 72,
+          "y": 1327,
+          "width": 140.0,
+          "height": 22,
+          "size": 22
+        },
+        {
+          "text": "北岸实验空间 · 一层观测厅及河岸采样区",
+          "role": "venue",
+          "x": 72,
+          "y": 1371,
+          "width": 570.0,
+          "height": 31,
+          "size": 32
+        },
+        {
+          "text": "原创示例 · 时间与场地为虚构示范信息。无需预约，现场依次入场；未成年人请由监护人陪同。",
+          "role": "note",
+          "x": 72,
+          "y": 1516,
+          "width": 837.0,
+          "height": 21,
+          "size": 20
+        }
+      ],
+      "wrapped_fields": [
+        {
+          "input": "晨雾观测站\n城市气候与\n声景采样开放日",
+          "rendered_lines": [
+            "晨雾观测站",
+            "城市气候与",
+            "声景采样开放日"
+          ],
+          "preserved": true
+        },
+        {
+          "input": "MORNING MIST / CLIMATE & SOUNDSCAPE",
+          "rendered_lines": [
+            "MORNING MIST / CLIMATE & SOUNDSCAPE"
+          ],
+          "preserved": true
+        },
+        {
+          "input": "从河岸出发，学习记录温度、湿度与环境声音；参与现场采样演示，完成属于自己的城市观察笔记。",
+          "rendered_lines": [
+            "从河岸出发，学习记录温度、湿度与环",
+            "境声音；参与现场采样演示，完成属于",
+            "自己的城市观察笔记。"
+          ],
+          "preserved": true
+        },
+        {
+          "input": "北岸实验空间 · 一层观测厅及河岸采样区",
+          "rendered_lines": [
+            "北岸实验空间 · 一层观测厅及河岸采样区"
+          ],
+          "preserved": true
+        },
+        {
+          "input": "原创示例 · 时间与场地为虚构示范信息。无需预约，现场依次入场；未成年人请由监护人陪同。",
+          "rendered_lines": [
+            "原创示例 · 时间与场地为虚构示范信息。无需预约，现场依次入场；未成年人请由监护人陪同。"
+          ],
+          "preserved": true
+        }
+      ],
+      "reference_ids": [
+        "R17",
+        "R25",
+        "R29"
+      ],
+      "composition": "B / original mint observation instrument"
+    },
+    "information-card": {
+      "canvas": [
+        1200,
+        900
+      ],
+      "text_bounds_pass": true,
+      "text_overlap_count": 0,
+      "content_preserved": true,
+      "text_boxes": [
+        {
+          "text": "FIELD GUIDE / EQUIPMENT",
+          "role": "label",
+          "x": 72,
+          "y": 42,
+          "width": 287.0,
+          "height": 17,
+          "size": 22
+        },
+        {
+          "text": "DOC / 02",
+          "role": "index",
+          "x": 970,
+          "y": 42,
+          "width": 91.0,
+          "height": 16,
+          "size": 22
+        },
+        {
+          "text": "设备借用与归还流程",
+          "role": "title",
+          "x": 72,
+          "y": 94,
+          "width": 495.0,
+          "height": 51,
+          "size": 55
+        },
+        {
+          "text": "01 / 预约",
+          "role": "step_label",
+          "x": 87,
+          "y": 248,
+          "width": 96.0,
+          "height": 23,
+          "size": 23
+        },
+        {
+          "text": "填写设备类型与借用时段，确认后领取预约编号。",
+          "role": "body",
+          "x": 292,
+          "y": 243,
+          "width": 616.0,
+          "height": 29,
+          "size": 28
+        },
+        {
+          "text": "02 / 领取",
+          "role": "step_label",
+          "x": 87,
+          "y": 486.0,
+          "width": 96.0,
+          "height": 23,
+          "size": 23
+        },
+        {
+          "text": "出示预约编号，核对设备状态与附件数量。",
+          "role": "body",
+          "x": 292,
+          "y": 481.0,
+          "width": 532.0,
+          "height": 29,
+          "size": 28
+        },
+        {
+          "text": "03 / 归还",
+          "role": "step_label",
+          "x": 87,
+          "y": 724.0,
+          "width": 96.0,
+          "height": 23,
+          "size": 23
+        },
+        {
+          "text": "按约定时间归还设备，工作人员检查后完成记录。",
+          "role": "body",
+          "x": 292,
+          "y": 719.0,
+          "width": 616.0,
+          "height": 29,
+          "size": 28
+        },
+        {
+          "text": "原创示例 · 如需延长借用时间，请在到期前联系现场工作人员。",
+          "role": "note",
+          "x": 72,
+          "y": 840,
+          "width": 557.0,
+          "height": 21,
+          "size": 20
+        }
+      ],
+      "wrapped_fields": [
+        {
+          "input": "设备借用与归还流程",
+          "rendered_lines": [
+            "设备借用与归还流程"
+          ],
+          "preserved": true
+        },
+        {
+          "input": "填写设备类型与借用时段，确认后领取预约编号。",
+          "rendered_lines": [
+            "填写设备类型与借用时段，确认后领取预约编号。"
+          ],
+          "preserved": true
+        },
+        {
+          "input": "出示预约编号，核对设备状态与附件数量。",
+          "rendered_lines": [
+            "出示预约编号，核对设备状态与附件数量。"
+          ],
+          "preserved": true
+        },
+        {
+          "input": "按约定时间归还设备，工作人员检查后完成记录。",
+          "rendered_lines": [
+            "按约定时间归还设备，工作人员检查后完成记录。"
+          ],
+          "preserved": true
+        },
+        {
+          "input": "原创示例 · 如需延长借用时间，请在到期前联系现场工作人员。",
+          "rendered_lines": [
+            "原创示例 · 如需延长借用时间，请在到期前联系现场工作人员。"
+          ],
+          "preserved": true
+        }
+      ],
+      "reference_ids": [
+        "R09",
+        "R26",
+        "R35",
+        "R37"
+      ],
+      "composition": "D + label/value fields"
+    },
+    "information-card-long": {
+      "canvas": [
+        1200,
+        900
+      ],
+      "text_bounds_pass": true,
+      "text_overlap_count": 0,
+      "content_preserved": true,
+      "text_boxes": [
+        {
+          "text": "FIELD GUIDE / EQUIPMENT",
+          "role": "label",
+          "x": 72,
+          "y": 42,
+          "width": 287.0,
+          "height": 17,
+          "size": 22
+        },
+        {
+          "text": "DOC / 02",
+          "role": "index",
+          "x": 970,
+          "y": 42,
+          "width": 91.0,
+          "height": 16,
+          "size": 22
+        },
+        {
+          "text": "设备借用、异地采样与归还记录操作说明",
+          "role": "title",
+          "x": 72,
+          "y": 94,
+          "width": 936.0,
+          "height": 48,
+          "size": 52
+        },
+        {
+          "text": "01 / 预约",
+          "role": "step_label",
+          "x": 87,
+          "y": 248,
+          "width": 96.0,
+          "height": 23,
+          "size": 23
+        },
+        {
+          "text": "填写设备类型、采样地点与借用时段，并说明是否需要备用电池。",
+          "role": "body",
+          "x": 292,
+          "y": 243,
+          "width": 812.0,
+          "height": 29,
+          "size": 28
+        },
+        {
+          "text": "预约确认后领取编号；若计划变更，请提前更新记录，避免",
+          "role": "body",
+          "x": 292,
+          "y": 285,
+          "width": 728.0,
+          "height": 29,
+          "size": 28
+        },
+        {
+          "text": "重复预留。",
+          "role": "body",
+          "x": 292,
+          "y": 327,
+          "width": 140.0,
+          "height": 27,
+          "size": 28
+        },
+        {
+          "text": "02 / 领取",
+          "role": "step_label",
+          "x": 87,
+          "y": 474.0,
+          "width": 96.0,
+          "height": 23,
+          "size": 23
+        },
+        {
+          "text": "出示预约编号，与工作人员共同核对设备外观、附件数量和剩余电",
+          "role": "body",
+          "x": 292,
+          "y": 469.0,
+          "width": 812.0,
+          "height": 29,
+          "size": 28
+        },
+        {
+          "text": "量。首次使用者须完成现场操作说明；发现异常请在离场前登记。",
+          "role": "body",
+          "x": 292,
+          "y": 511.0,
+          "width": 812.0,
+          "height": 29,
+          "size": 28
+        },
+        {
+          "text": "03 / 归还",
+          "role": "step_label",
+          "x": 87,
+          "y": 658.0,
+          "width": 96.0,
+          "height": 23,
+          "size": 23
+        },
+        {
+          "text": "按约定时间归还设备及全部附件，并提交采样地点和使用情况记",
+          "role": "body",
+          "x": 292,
+          "y": 653.0,
+          "width": 784.0,
+          "height": 29,
+          "size": 28
+        },
+        {
+          "text": "录。工作人员检查后完成归还；需要延长借用时，请先联系现场工",
+          "role": "body",
+          "x": 292,
+          "y": 695.0,
+          "width": 812.0,
+          "height": 29,
+          "size": 28
+        },
+        {
+          "text": "作人员。",
+          "role": "body",
+          "x": 292,
+          "y": 737.0,
+          "width": 112.0,
+          "height": 26,
+          "size": 28
+        },
+        {
+          "text": "原创示例 · 未经确认请勿转借；异地采样结束后，请保持设备清洁并备份自己的采样文件。",
+          "role": "note",
+          "x": 72,
+          "y": 840,
+          "width": 797.0,
+          "height": 21,
+          "size": 20
+        }
+      ],
+      "wrapped_fields": [
+        {
+          "input": "设备借用、异地采样与归还记录操作说明",
+          "rendered_lines": [
+            "设备借用、异地采样与归还记录操作说明"
+          ],
+          "preserved": true
+        },
+        {
+          "input": "填写设备类型、采样地点与借用时段，并说明是否需要备用电池。预约确认后领取编号；若计划变更，请提前更新记录，避免重复预留。",
+          "rendered_lines": [
+            "填写设备类型、采样地点与借用时段，并说明是否需要备用电池。",
+            "预约确认后领取编号；若计划变更，请提前更新记录，避免",
+            "重复预留。"
+          ],
+          "preserved": true
+        },
+        {
+          "input": "出示预约编号，与工作人员共同核对设备外观、附件数量和剩余电量。首次使用者须完成现场操作说明；发现异常请在离场前登记。",
+          "rendered_lines": [
+            "出示预约编号，与工作人员共同核对设备外观、附件数量和剩余电",
+            "量。首次使用者须完成现场操作说明；发现异常请在离场前登记。"
+          ],
+          "preserved": true
+        },
+        {
+          "input": "按约定时间归还设备及全部附件，并提交采样地点和使用情况记录。工作人员检查后完成归还；需要延长借用时，请先联系现场工作人员。",
+          "rendered_lines": [
+            "按约定时间归还设备及全部附件，并提交采样地点和使用情况记",
+            "录。工作人员检查后完成归还；需要延长借用时，请先联系现场工",
+            "作人员。"
+          ],
+          "preserved": true
+        },
+        {
+          "input": "原创示例 · 未经确认请勿转借；异地采样结束后，请保持设备清洁并备份自己的采样文件。",
+          "rendered_lines": [
+            "原创示例 · 未经确认请勿转借；异地采样结束后，请保持设备清洁并备份自己的采样文件。"
+          ],
+          "preserved": true
+        }
+      ],
+      "reference_ids": [
+        "R09",
+        "R26",
+        "R35",
+        "R37"
+      ],
+      "composition": "D + label/value fields"
+    }
+  },
+  "verification_scope": "Pillow actual-font ink bounds, text/text collisions, wrapping preservation and rendered PNG. SVG needs font-matched recheck in other editors."
+}

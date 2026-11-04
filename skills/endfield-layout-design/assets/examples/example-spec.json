@@ -1,0 +1,34 @@
+{
+  "activity-poster": {
+    "kind": "poster", "brand": "NORTH BANK / FIELD STATION", "eyebrow": "北岸观测计划 · 公众开放日",
+    "title": "晨雾观测站\n开放日", "subtitle": "MORNING MIST / OPEN STATION",
+    "description": "记录一段城市的呼吸。\n一起观察晨雾、河岸与声音。",
+    "date": "2026.11.07", "time": "13:00 — 18:00", "venue": "北岸实验空间 · 一层观测厅",
+    "note": "原创示例 · 时间与场地为虚构示范信息。无需预约，现场依次入场。"
+  },
+  "activity-poster-long": {
+    "kind": "poster", "brand": "NORTH BANK / FIELD STATION", "eyebrow": "北岸观测计划 · 公众开放日",
+    "title": "晨雾观测站\n城市气候与\n声景采样开放日", "subtitle": "MORNING MIST / CLIMATE & SOUNDSCAPE",
+    "description": "从河岸出发，学习记录温度、湿度与环境声音；参与现场采样演示，完成属于自己的城市观察笔记。",
+    "date": "2026.11.07", "time": "13:00 — 18:00", "venue": "北岸实验空间 · 一层观测厅及河岸采样区",
+    "note": "原创示例 · 时间与场地为虚构示范信息。无需预约，现场依次入场；未成年人请由监护人陪同。"
+  },
+  "information-card": {
+    "kind": "card", "eyebrow": "FIELD GUIDE / EQUIPMENT", "title": "设备借用与归还流程",
+    "steps": [
+      {"label": "预约", "body": "填写设备类型与借用时段，确认后领取预约编号。"},
+      {"label": "领取", "body": "出示预约编号，核对设备状态与附件数量。"},
+      {"label": "归还", "body": "按约定时间归还设备，工作人员检查后完成记录。"}
+    ],
+    "note": "原创示例 · 如需延长借用时间，请在到期前联系现场工作人员。"
+  },
+  "information-card-long": {
+    "kind": "card", "eyebrow": "FIELD GUIDE / EQUIPMENT", "title": "设备借用、异地采样与归还记录操作说明",
+    "steps": [
+      {"label": "预约", "body": "填写设备类型、采样地点与借用时段，并说明是否需要备用电池。预约确认后领取编号；若计划变更，请提前更新记录，避免重复预留。"},
+      {"label": "领取", "body": "出示预约编号，与工作人员共同核对设备外观、附件数量和剩余电量。首次使用者须完成现场操作说明；发现异常请在离场前登记。"},
+      {"label": "归还", "body": "按约定时间归还设备及全部附件，并提交采样地点和使用情况记录。工作人员检查后完成归还；需要延长借用时，请先联系现场工作人员。"}
+    ],
+    "note": "原创示例 · 未经确认请勿转借；异地采样结束后，请保持设备清洁并备份自己的采样文件。"
+  }
+}
